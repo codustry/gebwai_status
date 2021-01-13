@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 526,
-    "timeDay": 526,
-    "timeWeek": 526,
-    "timeMonth": 526,
-    "timeYear": 526,
+    "time": 468,
+    "timeDay": 468,
+    "timeWeek": 468,
+    "timeMonth": 468,
+    "timeYear": 468,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 609,
-    "timeDay": 609,
-    "timeWeek": 609,
-    "timeMonth": 609,
-    "timeYear": 609,
+    "time": 575,
+    "timeDay": 575,
+    "timeWeek": 575,
+    "timeMonth": 575,
+    "timeYear": 575,
     "dailyMinutesDown": {}
   },
   {
@@ -40,19 +40,19 @@
     "url": "$API_ENDPOINT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "server",
-    "status": "down",
-    "uptime": "29.25%",
-    "uptimeDay": "29.25%",
-    "uptimeWeek": "29.25%",
-    "uptimeMonth": "29.25%",
-    "uptimeYear": "29.25%",
-    "time": 5718,
-    "timeDay": 5718,
-    "timeWeek": 5718,
-    "timeMonth": 5718,
-    "timeYear": 5718,
+    "status": "up",
+    "uptime": "22.76%",
+    "uptimeDay": "22.76%",
+    "uptimeWeek": "22.76%",
+    "uptimeMonth": "22.76%",
+    "uptimeYear": "22.76%",
+    "time": 5211,
+    "timeDay": 5211,
+    "timeWeek": 5211,
+    "timeMonth": 5211,
+    "timeYear": 5211,
     "dailyMinutesDown": {
-      "2021-01-13": 0
+      "2021-01-13": 23
     }
   }
 ]
