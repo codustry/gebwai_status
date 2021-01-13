@@ -10,6 +10,11 @@ sites:
     url: $LIFF_SITE
   - name: server
     url: $API_ENDPOINT
+  - name: LINE API
+    url: https://api.line.me/v2/bot/channel/webhook/endpoint
+    headers:
+      - "Authorization: Bearer $LINE_ACCESS_TOKEN"
+      - "Content-Type:application/json"
 
 assignees: # Users to assign downtime issues (optional)
   - CircleOnCircles
