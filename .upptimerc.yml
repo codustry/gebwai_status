@@ -16,13 +16,13 @@ assignees: # Users to assign downtime issues (optional)
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: status.gebwai.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://ik.imagekit.io/tqbc8pye197/webapp/favicon.png
+  name: Gebwai Status
+  introTitle: "**Gebwai** is a LINE chatbot to make you work on line more productive."
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/codustry/gebwai_status).
   navbar:
     - title: Status
       href: /
