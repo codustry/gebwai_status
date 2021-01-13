@@ -1,22 +1,18 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: codustry # Your GitHub username
+repo: gebwai_status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: gebwai.com
+    url: https://gebwai.com
+  - name: liff
+    url: $LIFF_SITE
+  - name: server
+    url: $API_ENDPOINT
+
+assignees: # Users to assign downtime issues (optional)
+  - CircleOnCircles
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
