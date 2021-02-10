@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/gebwai.com",
     "slug": "gebwai-com",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "97.95%",
     "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 568,
-    "timeDay": 630,
-    "timeWeek": 562,
-    "timeMonth": 568,
-    "timeYear": 568,
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 560,
+    "timeDay": 485,
+    "timeWeek": 521,
+    "timeMonth": 560,
+    "timeYear": 560,
     "dailyMinutesDown": {
       "2021-02-09": 29
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 415,
-    "timeDay": 341,
-    "timeWeek": 336,
-    "timeMonth": 415,
-    "timeYear": 415,
+    "time": 407,
+    "timeDay": 172,
+    "timeWeek": 301,
+    "timeMonth": 407,
+    "timeYear": 407,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 3808,
-    "timeDay": 6538,
-    "timeWeek": 3739,
-    "timeMonth": 3808,
-    "timeYear": 3808,
+    "time": 3720,
+    "timeDay": 1063,
+    "timeWeek": 3094,
+    "timeMonth": 3720,
+    "timeYear": 3720,
     "dailyMinutesDown": {
       "2021-01-13": 23
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 710,
-    "timeDay": 304,
-    "timeWeek": 568,
-    "timeMonth": 710,
-    "timeYear": 710,
+    "time": 703,
+    "timeDay": 508,
+    "timeWeek": 564,
+    "timeMonth": 703,
+    "timeYear": 703,
     "dailyMinutesDown": {}
   }
 ]
