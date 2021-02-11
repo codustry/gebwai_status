@@ -6,15 +6,15 @@
     "slug": "gebwai-com",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "97.95%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 560,
-    "timeDay": 485,
-    "timeWeek": 521,
-    "timeMonth": 560,
-    "timeYear": 560,
+    "time": 550,
+    "timeDay": 235,
+    "timeWeek": 467,
+    "timeMonth": 550,
+    "timeYear": 550,
     "dailyMinutesDown": {
       "2021-02-09": 29
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 172,
-    "timeWeek": 301,
-    "timeMonth": 407,
-    "timeYear": 407,
+    "time": 400,
+    "timeDay": 157,
+    "timeWeek": 261,
+    "timeMonth": 400,
+    "timeYear": 400,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 3720,
-    "timeDay": 1063,
-    "timeWeek": 3094,
-    "timeMonth": 3720,
-    "timeYear": 3720,
+    "time": 3638,
+    "timeDay": 1116,
+    "timeWeek": 2039,
+    "timeMonth": 3638,
+    "timeYear": 3638,
     "dailyMinutesDown": {
       "2021-01-13": 23
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 703,
-    "timeDay": 508,
-    "timeWeek": 564,
-    "timeMonth": 703,
-    "timeYear": 703,
+    "time": 696,
+    "timeDay": 503,
+    "timeWeek": 533,
+    "timeMonth": 696,
+    "timeYear": 696,
     "dailyMinutesDown": {}
   }
 ]
