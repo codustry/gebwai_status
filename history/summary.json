@@ -42,7 +42,7 @@
     "url": "$API_ENDPOINT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -50,7 +50,7 @@
     "uptimeYear": "99.84%",
     "time": 2794,
     "timeDay": 3638,
-    "timeWeek": 3655,
+    "timeWeek": 3714,
     "timeMonth": 3069,
     "timeYear": 2794,
     "dailyMinutesDown": {
