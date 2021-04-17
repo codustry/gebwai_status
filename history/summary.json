@@ -4,17 +4,17 @@
     "url": "https://gebwai.com",
     "icon": "https://favicons.githubusercontent.com/gebwai.com",
     "slug": "gebwai-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 504,
-    "timeDay": 938,
-    "timeWeek": 649,
-    "timeMonth": 506,
-    "timeYear": 504,
+    "time": 503,
+    "timeDay": 827,
+    "timeWeek": 625,
+    "timeMonth": 502,
+    "timeYear": 503,
     "dailyMinutesDown": {
       "2021-02-09": 29
     }
