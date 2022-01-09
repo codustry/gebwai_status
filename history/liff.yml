@@ -1,7 +1,7 @@
 url: $LIFF_SITE
-status: down
-code: 521
-responseTime: 139
-lastUpdated: 2022-01-09T21:02:01.007Z
+status: up
+code: 200
+responseTime: 104
+lastUpdated: 2022-01-09T21:13:28.218Z
 startTime: Wed Jan 13 2021 17:19:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
