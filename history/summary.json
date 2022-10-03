@@ -2,7 +2,7 @@
   {
     "name": "gebwai.com",
     "url": "https://gebwai.com",
-    "icon": "https://favicons.githubusercontent.com/gebwai.com",
+    "icon": "https://icons.duckduckgo.com/ip3/gebwai.com.ico",
     "slug": "gebwai-com",
     "status": "up",
     "uptime": "99.94%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 398,
-    "timeDay": 421,
-    "timeWeek": 364,
-    "timeMonth": 406,
+    "timeDay": 248,
+    "timeWeek": 375,
+    "timeMonth": 399,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2022-06-21": 46
@@ -22,7 +22,7 @@
   {
     "name": "liff",
     "url": "$LIFF_SITE",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "liff",
     "status": "up",
     "uptime": "99.90%",
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 357,
-    "timeDay": 250,
-    "timeWeek": 513,
-    "timeMonth": 286,
+    "timeDay": 219,
+    "timeWeek": 288,
+    "timeMonth": 288,
     "timeYear": 342,
     "dailyMinutesDown": {
       "2022-08-04": 119,
@@ -51,7 +51,7 @@
   {
     "name": "server",
     "url": "$API_ENDPOINT",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server",
     "status": "up",
     "uptime": "99.87%",
@@ -59,10 +59,10 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.83%",
-    "time": 1230,
-    "timeDay": 367,
-    "timeWeek": 1462,
-    "timeMonth": 1993,
+    "time": 1229,
+    "timeDay": 1199,
+    "timeWeek": 748,
+    "timeMonth": 2018,
     "timeYear": 1202,
     "dailyMinutesDown": {
       "2022-09-28": 15,
@@ -83,7 +83,7 @@
   {
     "name": "LINE API",
     "url": "https://api.line.me/v2/bot/channel/webhook/endpoint",
-    "icon": "https://favicons.githubusercontent.com/api.line.me",
+    "icon": "https://icons.duckduckgo.com/ip3/api.line.me.ico",
     "slug": "line-api",
     "status": "up",
     "uptime": "100.00%",
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 531,
-    "timeDay": 523,
-    "timeWeek": 592,
-    "timeMonth": 659,
-    "timeYear": 542,
+    "time": 530,
+    "timeDay": 350,
+    "timeWeek": 575,
+    "timeMonth": 635,
+    "timeYear": 543,
     "dailyMinutesDown": {}
   }
 ]
