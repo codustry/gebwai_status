@@ -1,7 +1,7 @@
 url: https://api.line.me/v2/bot/channel/webhook/endpoint
 status: up
 code: 200
-responseTime: 526
-lastUpdated: 2023-02-15T23:04:39.805Z
+responseTime: 869
+lastUpdated: 2023-02-16T23:04:46.340Z
 startTime: Wed Jan 13 2021 18:07:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
