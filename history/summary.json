@@ -6,17 +6,18 @@
     "slug": "gebwai-com",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "75.39%",
-    "uptimeWeek": "96.48%",
-    "uptimeMonth": "99.19%",
+    "uptimeDay": "72.72%",
+    "uptimeWeek": "96.10%",
+    "uptimeMonth": "99.10%",
     "uptimeYear": "99.92%",
     "time": 392,
     "timeDay": 301,
     "timeWeek": 293,
-    "timeMonth": 311,
+    "timeMonth": 310,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2023-02-28": 354,
+      "2023-03-01": 19,
+      "2023-02-28": 373,
       "2022-06-21": 46
     }
   },
@@ -34,7 +35,7 @@
     "time": 384,
     "timeDay": 159,
     "timeWeek": 227,
-    "timeMonth": 249,
+    "timeMonth": 258,
     "timeYear": 396,
     "dailyMinutesDown": {
       "2022-10-25": 26,
@@ -60,7 +61,7 @@
     "time": 1286,
     "timeDay": 750,
     "timeWeek": 1106,
-    "timeMonth": 1630,
+    "timeMonth": 1568,
     "timeYear": 1320,
     "dailyMinutesDown": {
       "2023-01-10": 32,
@@ -89,7 +90,7 @@
     "time": 611,
     "timeDay": 833,
     "timeWeek": 700,
-    "timeMonth": 823,
+    "timeMonth": 817,
     "timeYear": 675,
     "dailyMinutesDown": {}
   }
