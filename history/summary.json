@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.15%",
+    "uptimeWeek": "97.23%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "99.89%",
     "time": 390,
@@ -82,19 +82,19 @@
     "url": "https://api.line.me/v2/bot/channel/webhook/endpoint",
     "icon": "https://icons.duckduckgo.com/ip3/api.line.me.ico",
     "slug": "line-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 618,
-    "timeDay": 696,
-    "timeWeek": 907,
-    "timeMonth": 754,
-    "timeYear": 683,
+    "time": 620,
+    "timeDay": 1077,
+    "timeWeek": 968,
+    "timeMonth": 777,
+    "timeYear": 685,
     "dailyMinutesDown": {
-      "2023-03-07": 0
+      "2023-03-07": 9
     }
   }
 ]
