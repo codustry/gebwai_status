@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.92%",
+    "uptimeWeek": "97.15%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "99.89%",
     "time": 390,
     "timeDay": 225,
-    "timeWeek": 227,
+    "timeWeek": 215,
     "timeMonth": 283,
     "timeYear": 422,
     "dailyMinutesDown": {
@@ -33,7 +33,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 406,
-    "timeDay": 5063,
+    "timeDay": 246,
     "timeWeek": 1625,
     "timeMonth": 687,
     "timeYear": 428,
@@ -82,17 +82,19 @@
     "url": "https://api.line.me/v2/bot/channel/webhook/endpoint",
     "icon": "https://icons.duckduckgo.com/ip3/api.line.me.ico",
     "slug": "line-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 618,
     "timeDay": 696,
     "timeWeek": 907,
-    "timeMonth": 740,
+    "timeMonth": 754,
     "timeYear": 683,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-07": 0
+    }
   }
 ]
