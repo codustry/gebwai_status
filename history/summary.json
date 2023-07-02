@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gebwai.com.ico",
     "slug": "gebwai-com",
     "status": "up",
-    "uptime": "92.79%",
+    "uptime": "92.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "82.35%",
     "time": 386,
-    "timeDay": 133,
-    "timeWeek": 152,
+    "timeDay": 134,
+    "timeWeek": 148,
     "timeMonth": 143,
-    "timeYear": 334,
+    "timeYear": 333,
     "dailyMinutesDown": {
       "2023-05-22": 876,
       "2023-05-21": 1440,
@@ -96,15 +96,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 380,
-    "timeDay": 246,
-    "timeWeek": 243,
-    "timeMonth": 247,
-    "timeYear": 416,
+    "time": 379,
+    "timeDay": 110,
+    "timeWeek": 221,
+    "timeMonth": 246,
+    "timeYear": 417,
     "dailyMinutesDown": {
       "2022-10-25": 26,
-      "2022-08-04": 119,
-      "2022-07-02": 17
+      "2022-08-04": 119
     }
   },
   {
@@ -119,10 +118,10 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
     "time": 1362,
-    "timeDay": 1340,
-    "timeWeek": 1250,
+    "timeDay": 303,
+    "timeWeek": 1163,
     "timeMonth": 1096,
-    "timeYear": 1412,
+    "timeYear": 1415,
     "dailyMinutesDown": {
       "2023-06-20": 18,
       "2023-06-11": 28,
@@ -133,8 +132,7 @@
       "2023-01-10": 32,
       "2022-10-12": 17,
       "2022-09-28": 15,
-      "2022-09-14": 17,
-      "2022-07-02": 17
+      "2022-09-14": 17
     }
   },
   {
@@ -149,9 +147,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 750,
-    "timeDay": 506,
-    "timeWeek": 835,
-    "timeMonth": 849,
+    "timeDay": 628,
+    "timeWeek": 789,
+    "timeMonth": 839,
     "timeYear": 819,
     "dailyMinutesDown": {}
   }
