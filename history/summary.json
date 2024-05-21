@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.29%",
+    "uptimeYear": "99.56%",
     "time": 177,
-    "timeDay": 174,
-    "timeWeek": 162,
+    "timeDay": 138,
+    "timeWeek": 158,
     "timeMonth": 183,
     "timeYear": 156,
-    "dailyMinutesDown": {
-      "2023-05-22": 876
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "liff",
@@ -30,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 292,
-    "timeDay": 129,
-    "timeWeek": 238,
-    "timeMonth": 192,
+    "time": 291,
+    "timeDay": 329,
+    "timeWeek": 214,
+    "timeMonth": 197,
     "timeYear": 271,
     "dailyMinutesDown": {}
   },
@@ -49,10 +47,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.65%",
     "time": 1654,
-    "timeDay": 373,
-    "timeWeek": 2564,
-    "timeMonth": 2245,
-    "timeYear": 1697,
+    "timeDay": 310,
+    "timeWeek": 2787,
+    "timeMonth": 2214,
+    "timeYear": 1693,
     "dailyMinutesDown": {
       "2024-05-07": 17,
       "2024-04-06": 19,
@@ -90,10 +88,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 860,
-    "timeDay": 644,
-    "timeWeek": 692,
-    "timeMonth": 838,
-    "timeYear": 823,
+    "timeDay": 956,
+    "timeWeek": 649,
+    "timeMonth": 855,
+    "timeYear": 825,
     "dailyMinutesDown": {}
   }
 ]
